@@ -10,8 +10,6 @@ namespace CursoCSharp.Fundamentos {
             Console.Write("Qual o seu nome? ");
             string nome = Console.ReadLine();
 
-            Console.WriteLine(nome);
-
             Console.Write("Qual sua idade? ");
             int idade = int.Parse(Console.ReadLine());
 
