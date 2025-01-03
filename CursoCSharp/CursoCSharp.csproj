@@ -55,6 +55,12 @@
     <Compile Include="Fundamentos\Interpolacao.cs" />
     <Compile Include="Fundamentos\LendoDados.cs" />
     <Compile Include="Fundamentos\NotacaoPonto.cs" />
+    <Compile Include="Fundamentos\OperadorAtribuicao.cs" />
+    <Compile Include="Fundamentos\OperadoresAritimeticos.cs" />
+    <Compile Include="Fundamentos\OperadorLogico.cs" />
+    <Compile Include="Fundamentos\OperadorRelacional.cs" />
+    <Compile Include="Fundamentos\OperadorTernario.cs" />
+    <Compile Include="Fundamentos\OperadorUnario.cs" />
     <Compile Include="Fundamentos\VariableEConstants.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
