@@ -48,7 +48,9 @@
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
     <Compile Include="Fundamentos\Coments.cs" />
+    <Compile Include="Fundamentos\Conversoes.cs" />
     <Compile Include="Fundamentos\FirstProgram.cs" />
+    <Compile Include="Fundamentos\FormatandoNumero.cs" />
     <Compile Include="Fundamentos\Inferencia.cs" />
     <Compile Include="Fundamentos\Interpolacao.cs" />
     <Compile Include="Fundamentos\LendoDados.cs" />
