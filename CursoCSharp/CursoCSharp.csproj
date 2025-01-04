@@ -47,6 +47,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="ControlStatement\StructureDoWhile.cs" />
+    <Compile Include="ControlStatement\StructureFor.cs" />
+    <Compile Include="ControlStatement\StructureForEach.cs" />
+    <Compile Include="ControlStatement\StructureIF.cs" />
+    <Compile Include="ControlStatement\StructureIfElseIf.cs" />
+    <Compile Include="ControlStatement\StructureSwitch.cs" />
+    <Compile Include="ControlStatement\StructureWhile.cs" />
     <Compile Include="Fundamentos\Coments.cs" />
     <Compile Include="Fundamentos\Conversoes.cs" />
     <Compile Include="Fundamentos\FirstProgram.cs" />
@@ -64,6 +71,7 @@
     <Compile Include="Fundamentos\VariableEConstants.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ControlStatement\StructureIfElse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
