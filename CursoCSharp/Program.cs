@@ -3,6 +3,10 @@ using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
 using CursoCSharp.ControlStatement;
+using CursoCSharp.ClassMethod;
+using static CursoCSharp.ClassMethod.calculadoraCadeia;
+using static CursoCSharp.ClassMethod.Prod;
+using static CursoCSharp.ClassMethod.Client;
 
 namespace CursoCSharp {
     class Program {
@@ -33,6 +37,24 @@ namespace CursoCSharp {
                 {"Structure Do While  - Control statement", StructureDoWhile.Execute},
                 {"Structure For - Control statement", StructureFor.Execute},
                 {"Structure For Each - Control statement", StructureForEach.Execute},
+                //Class and Method
+                {"Members - Class and Method", Members.Execute},
+                {"Contructors - Class and Method", Constructors.Execute},
+                {"Method With Return - Class and Method", WithReturn.Execute},
+                {"Methods Static - Class and Method", Static.Execute},
+                {"Atrib Static - Class and Method", AtribStatic.Execute},
+                {"Challenge Atrib  - Class and Method", ChallengeAtrib.Execute},
+                {"Params  - Class and Method", Params.Execute},
+                {"named arguments  - Class and Method", ParamsNom.Execute},
+                {"Getters and Setters  - Class and Method", GettersSetters.Execute},
+                {"Props  - Class and Method", Props.Execute},
+                {"Readyonly  - Class and Method", Readyonly.Execute},
+                {"Example Enum  - Class and Method", ExampEnum.Execute},
+                {"Struct  - Class and Method", Struct.Execute},
+                {"Struct & Class  - Class and Method", StructClass.Execute},
+                {"Value & Reference  - Class and Method", ValueRef.Execute},
+                {"Params for Ref  - Class and Method", ParamsRef.Execute},
+                {"Defalut Value - Class and Method", DefaultValue.Execute},
 
             });
 

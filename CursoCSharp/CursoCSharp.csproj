@@ -47,6 +47,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="ClassMethod\AtribStatic.cs" />
+    <Compile Include="ClassMethod\ChallengeAtrib.cs" />
+    <Compile Include="ClassMethod\Constructors.cs" />
+    <Compile Include="ClassMethod\DefaultValue.cs" />
+    <Compile Include="ClassMethod\ExampEnum.cs" />
+    <Compile Include="ClassMethod\GettersSetters.cs" />
+    <Compile Include="ClassMethod\Members.cs" />
+    <Compile Include="ClassMethod\Params.cs" />
+    <Compile Include="ClassMethod\ParamsNom.cs" />
+    <Compile Include="ClassMethod\ParamsRef.cs" />
+    <Compile Include="ClassMethod\People.cs" />
+    <Compile Include="ClassMethod\Props.cs" />
+    <Compile Include="ClassMethod\Readyonly.cs" />
+    <Compile Include="ClassMethod\Static.cs" />
+    <Compile Include="ClassMethod\Struct.cs" />
+    <Compile Include="ClassMethod\StructClass.cs" />
+    <Compile Include="ClassMethod\ValueRef.cs" />
+    <Compile Include="ClassMethod\WithReturn.cs" />
     <Compile Include="ControlStatement\StructureDoWhile.cs" />
     <Compile Include="ControlStatement\StructureFor.cs" />
     <Compile Include="ControlStatement\StructureForEach.cs" />
