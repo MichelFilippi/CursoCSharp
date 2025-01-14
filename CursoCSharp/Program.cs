@@ -55,6 +55,16 @@ namespace CursoCSharp {
                 {"Value & Reference  - Class and Method", ValueRef.Execute},
                 {"Params for Ref  - Class and Method", ParamsRef.Execute},
                 {"Defalut Value - Class and Method", DefaultValue.Execute},
+                //Colection
+                {"Arrays - Colections",Colections.Array.Execute},
+                {"List - Colections",Colections.List.Execute},
+                {"ArrayList - Colections",Colections.ArrayL.Execute},
+                {"Set - Colections",Colections.SetC.Execute},
+                {"Queue - Colections",Colections.QueueC.Execute},
+                {"Equals - Colections",Colections.Igualdade.Execute},
+                {"Stack - Colections",Colections.StackC.Execute},
+                {"Dictionary - Colections",Colections.DictionaryC.Execute},
+
 
             });
 

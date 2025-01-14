@@ -65,6 +65,14 @@
     <Compile Include="ClassMethod\StructClass.cs" />
     <Compile Include="ClassMethod\ValueRef.cs" />
     <Compile Include="ClassMethod\WithReturn.cs" />
+    <Compile Include="Colections\Array.cs" />
+    <Compile Include="Colections\ArrayL.cs" />
+    <Compile Include="Colections\DictionaryC.cs" />
+    <Compile Include="Colections\Igualdade.cs" />
+    <Compile Include="Colections\QueueC.cs" />
+    <Compile Include="Colections\SetC.cs" />
+    <Compile Include="Colections\List.cs" />
+    <Compile Include="Colections\StackC.cs" />
     <Compile Include="ControlStatement\StructureDoWhile.cs" />
     <Compile Include="ControlStatement\StructureFor.cs" />
     <Compile Include="ControlStatement\StructureForEach.cs" />
